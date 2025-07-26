@@ -1,0 +1,45 @@
+{
+  "item": {
+    "name": "梦想NBA",
+    "description": "一个投篮小游戏，在有限的时间或次数内通过按动按钮在合适的时机释放来获得分数。\n激活网站https://azumastudio.top/ 购买链接https://afdian.com/item/ee8703344c3711f0aecf52540025c377 点击作者名字可跳转爱发电主页@wanggantian",
+    "preview": [
+      "preview1.png",
+      "preview2.png",
+      "preview3.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "",
+    "author": [
+      {
+        "name": "wanggantian",
+        "author_url": "https://afdian.com/a/wanggantian"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "1.3",
+      "file_name": "com.gantian.nba.release.1.3.0 mi9.rpk"
+    },
+    "n67": {
+      "version": "1.3",
+      "file_name": "com.gantian.nba.release.1.3.0 9p.rpk"
+    },
+    "o66": {
+      "version": "1.3",
+      "file_name": "com.gantian.nba.release.1.3.0 mi10.rpk"
+    },
+    "o66nfc": {
+      "version": "1.3",
+      "file_name": "com.gantian.nba.release.1.3.0 mi10.rpk"
+    },
+    "o65": {
+      "version": "1.3",
+      "file_name": "com.gantian.nba.release.1.3.0 rw5.rpk"
+    },
+    "o65m": {
+      "version": "1.3",
+      "file_name": "com.gantian.nba.release.1.3.0 rw5.rpk"
+    }
+  }
+}
